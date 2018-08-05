@@ -1,0 +1,27 @@
+body{
+   background-color: #e55039;
+   color:#fff;
+   background-image: url("../img/maybg.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.row#totem-top{
+   background-color:#0a3d62;
+   color: #fff;
+   padding: 15px 0;
+   margin-bottom: 40px;
+}
+
+.card{
+   color:#000;
+   width: 12rem;
+}
+
+footer{
+   margin-top: 50px;
+}
+
+.row#options{
+   margin-bottom: 30px;
+}
