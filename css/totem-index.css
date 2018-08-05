@@ -2,15 +2,19 @@ body{
    background-color: #e55039;
    color:#fff;
    background-image: url("../img/maybg.jpg");
-   background-size: cover;
+   background-size: stretch;
    background-repeat: no-repeat;
 }
 
 .row#totem-top{
    background-color:#0a3d62;
    color: #fff;
-   padding: 15px 0;
+   padding: 18px 0;
    margin-bottom: 40px;
+}
+
+h1.nav-link{
+   padding-left: 30px;
 }
 
 .card{
