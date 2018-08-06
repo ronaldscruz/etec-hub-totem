@@ -6,11 +6,11 @@ $(document).ready(function(){
    });
 
    $('.card').addClass('animated fadeIn faster');
-   $('#selecione').addClass('animated fadeInLeft faster');
+   $('#selecione').addClass('animated fadeIn faster');
 
    setTimeout(function(){
       $('.card').removeClass('animated fadeIn faster');
-      $('#selecione').removeClass('animated fadeInLeft faster');
-   },700);
+      $('#selecione').removeClass('animated fadeIn faster');
+   },800);
 
 });
